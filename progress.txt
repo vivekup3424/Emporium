@@ -1,0 +1,8 @@
+2314 02-05-2023
+This is going to be a long project
+So, for buiding this project, I am gonna need to sub-project
+1. Admin 
+2. Store
+
+1. In order to build the store , we need data for items and other stuff, so we need to build a database
+2. In order to build the admin, we need to build a database for admin
